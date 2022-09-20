@@ -1,4 +1,4 @@
-// Pepcoding is good explanation
+//Best explanation on pepcoding
 public int maxProfit(int[] prices, int fee) {
         if (prices.length <= 1) return 0;
         int days = prices.length, buy[] = new int[days], sell[] = new int[days];
