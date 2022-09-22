@@ -1,5 +1,5 @@
 
-// formula used => f(n) = f(n-1) + (n-1)*f(n-1);
+// formula used => f(n) = f(n-1) + (n-1)*f(n-2);
 //using recursive tree reach the approach
 
 #include<bits/stdc++.h>
